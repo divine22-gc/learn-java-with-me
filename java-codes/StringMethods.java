@@ -7,6 +7,6 @@ public class StringMethods {
         System.out.println("Length: " + str1.length());
         System.out.println("Uppercase: " + str1.toUpperCase());
         System.out.println("Trimmed: " + str1.trim());
-         
+    }    
     
 }
