@@ -10,11 +10,11 @@ class Student{
         this.prn = prn;
         this.wg = wg;
     }
-    public Student(String name){
-        this.name = name;
-        this.age = 0;
-        this.prn = 0;
-        this.wg = 0;
+    public Student(string name){
+        name = "default";
+        age = 0;
+        prn = 0;
+        wg = 00;
     }
     void display(){
         System.out.println("Name: "+ name);
